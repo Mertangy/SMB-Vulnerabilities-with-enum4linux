@@ -1,2 +1,2 @@
 # SMB-Vulnerabilities-with-enum4linux
-Scanning SMB vulnerabilities with enum$linux
+<b>Poorly secured and managed Windows server networks are a huge security risk. Penetration testers must uncover any vulnerabilities in file and print sharing functions that can leave an organization vulnerable to attack. In this activity, we will explore the capabilities of the <i>enum4linux</i> tool to enumerate user and file sharing information from Samba servers. Finally, we will use the smbclient utility to transfer files between systems.</b>
